@@ -1,0 +1,11 @@
+{
+  "name": "log4js-k8s",
+  "version": "0.9.0",
+  "description": "Log4js appender that logs output in a standard JSON format to stdout for Kubernetes based deployments.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
